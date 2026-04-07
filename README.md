@@ -126,14 +126,16 @@ http://localhost:3000
 
 ---
 
-## 📸 Demo
+## Demo
 
-### 🔗 Live Demo
+### Live Demo
 
 https://tuf-frontend-task-swe-summer-intern-sage.vercel.app/
 
+
 ###  Video Walkthrough
 
+https://youtu.be/orw7SyzkhoU
 
 
 ---
