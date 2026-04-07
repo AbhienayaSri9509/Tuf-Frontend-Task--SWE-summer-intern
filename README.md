@@ -176,7 +176,3 @@ LinkedIn: https://www.linkedin.com/in/abhienaya-sri-572020254/
 
 ---
 
-##  Conclusion
-
-This project demonstrates strong frontend engineering skills by combining **design aesthetics, interactivity, and responsiveness** into a single component-driven application.
-
